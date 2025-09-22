@@ -1,13 +1,48 @@
 # test-colab-jupyter
 Repositorio Test para subir notebooks a github, desde colab o jupyter vsc
 
-# Análisis de Ventas Panini
+## Pasos y Análisis de Ventas Panini
 
 Este repositorio test, contiene un conjunto de scripts y análisis exploratorios de datos (EDA) para entender mejor los patrones de ventas de "Panini" a partir de un dataset transaccional.
 
 ## Descripción del Proyecto
 
 El objetivo principal es poder cargar o subir los archivos o cambios desde vs a github, en cuanto al proyecto tareas como limpiar datos queda pendiente,la carga y visualización de datos de ventas permitieron obtener insights sobre el rendimiento de productos, métodos de pago y tendencias de ingresos a lo largo del tiempo. Se utilizan las librerías `pandas` para la manipulación de datos, y `matplotlib` junto con `seaborn` para la visualización.
+
+## Pasos para subir cambios desde Notebook a Github
+
+### 1. Crear un repositorio nuevo en Github,sólo agregar Readme. 
+
+### 2. Clonar tu repositorio (solo la primera vez en Notebook Jupyter o Colab)
+`git clone https://github.com/LenninTemoche/test-colab-jupyter.git`
+
+### 3. Entrar a la carpeta del repo
+`%cd test-colab-jupyter`
+
+### 4. Configurar tus credenciales de GitHub
+
+`!git config --global user.name "TU-NOMBRE"`
+
+`!git config --global user.email "TU-CORREO"`
+
+### ⚠️Agrega o reemplaza TU-TOKEN con tu Personal Access Token de GitHub
+. En VS te pedirá Token al hacer push
+
+.En Colab podrás agregarlo usando:
+`!git remote set-url origin https://TU-TOKEN@url_de_repo.git`
+
+Por ejemplo:
+
+`!git remote set-url origin https://TU-TOKEN@github.com/LenninTemoche/test-colab-jupyter.git`
+
+### Subir los cambios
+
+`!git add .`
+
+`!git commit -m "Subo cambios desde Colab"`
+
+`!git push origin main` #luego de la 1ra vez sólo `git push`
+
 
 ## Contenido del Repositorio
 
@@ -55,9 +90,6 @@ El análisis incluye las siguientes visualizaciones, cada una diseñada para ofr
 3.  **Ejecutar el Análisis:**
     Abre el archivo `*.ipynb` en un entorno como Jupyter Notebook o JupyterLab, y ejecuta todas las celdas para ver los gráficos y conclusiones.
 
-    ```bash
-    jupyter notebook
-    ```
     Navega hasta el archivo `*.ipynb` y ábrelo.
 
 ## Dataset
