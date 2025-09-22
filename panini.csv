@@ -1,0 +1,101 @@
+id,fecha,producto,valor,metodo_pago
+2720,2023-07-01,Risoto de Funghi,13.0,Tarjeta de Débito
+2721,2023-07-02,Tiramisú,10.0,Tarjeta de Débito
+2722,2023-07-02,Tiramisú,10.0,Tarjeta de Crédito
+2723,2023-07-02,Ratatouille,8.5,Transferencia
+2724,2023-07-03,Ratatouille,8.5,Efectivo
+2725,2023-07-03,Ensalada César,11.0,Transferencia
+2726,2023-07-04,Café au lait,4.0,Efectivo
+2727,2023-07-04,Lasanha,11.5,Transferencia
+2728,2023-07-04,Gnocchi,10.5,Transferencia
+2729,2023-07-04,Espresso,2.5,Transferencia
+2730,2023-07-04,Macaron,3.5,Efectivo
+2731,2023-07-05,Gelato,6.0,Tarjeta de Crédito
+2732,2023-07-05,Prociutto,4.5,Tarjeta de Débito
+2733,2023-07-05,Gelato,6.0,Transferencia
+2734,2023-07-05,Canapé de Salmón,9.5,Transferencia
+2735,2023-07-06,Tiramisú,10.0,Tarjeta de Crédito
+2736,2023-07-06,Canapé de Salmón,9.5,Tarjeta de Débito
+2737,2023-07-06,Ensalada César,11.0,Efectivo
+2738,2023-07-06,Ensalada César,11.0,Tarjeta de Débito
+2739,2023-07-06,Risoto de Funghi,13.0,Tarjeta de Débito
+2740,2023-07-06,Espresso,2.5,Efectivo
+2741,2023-07-06,Limoncello,9.0,Transferencia
+2742,2023-07-06,Canapé de Salmón,9.5,Tarjeta de Crédito
+2743,2023-07-06,Limoncello,9.0,Transferencia
+2744,2023-07-06,Cappuccino,5.5,Efectivo
+2745,2023-07-06,Prociutto,4.5,Efectivo
+2746,2023-07-06,Ratatouille,8.5,Transferencia
+2747,2023-07-06,Pizza Margherita,12.0,Tarjeta de Crédito
+2748,2023-07-07,Ensalada César,11.0,Efectivo
+2749,2023-07-07,Gelato,6.0,Efectivo
+2750,2023-07-07,Tiramisú,10.0,Tarjeta de Débito
+2751,2023-07-07,Tiramisú,10.0,Tarjeta de Débito
+2752,2023-07-07,Baguete,3.0,Efectivo
+2753,2023-07-08,Pizza Margherita,12.0,Tarjeta de Crédito
+2754,2023-07-08,Café au lait,4.0,Efectivo
+2755,2023-07-08,Café au lait,4.0,Efectivo
+2756,2023-07-09,Croissant,5.0,Tarjeta de Crédito
+2757,2023-07-09,Café au lait,4.0,Tarjeta de Crédito
+2758,2023-07-09,Baguete,3.0,Tarjeta de Crédito
+2759,2023-07-10,Tiramisú,10.0,Efectivo
+2760,2023-07-10,Espresso,2.5,Efectivo
+2761,2023-07-10,Baguete,3.0,Transferencia
+2762,2023-07-10,Café au lait,4.0,Transferencia
+2763,2023-07-10,Ensalada César,11.0,Efectivo
+2764,2023-07-10,Ratatouille,8.5,Tarjeta de Crédito
+2765,2023-07-10,Ratatouille,8.5,Transferencia
+2766,2023-07-10,Tiramisú,10.0,Efectivo
+2767,2023-07-10,Gelato,6.0,Efectivo
+2768,2023-07-11,Bruschetta,7.0,Tarjeta de Crédito
+2769,2023-07-11,Quiche Lorraine,8.0,Tarjeta de Débito
+2770,2023-07-11,Limoncello,9.0,Efectivo
+2771,2023-07-11,Gnocchi,10.5,Transferencia
+2772,2023-07-11,Prociutto,4.5,Transferencia
+2773,2023-07-11,Ensalada César,11.0,Tarjeta de Crédito
+2774,2023-07-12,Quiche Lorraine,8.0,Transferencia
+2775,2023-07-12,Gelato,6.0,Tarjeta de Crédito
+2776,2023-07-12,Ensalada César,11.0,Efectivo
+2777,2023-07-13,Pizza Margherita,12.0,Transferencia
+2778,2023-07-13,Bruschetta,7.0,Transferencia
+2779,2023-07-13,Ratatouille,8.5,Efectivo
+2780,2023-07-13,Panini,7.5,Tarjeta de Crédito
+2781,2023-07-13,Gnocchi,10.5,Efectivo
+2782,2023-07-14,Tiramisú,10.0,Efectivo
+2783,2023-07-14,Café au lait,4.0,Tarjeta de Crédito
+2784,2023-07-14,Espresso,2.5,Transferencia
+2785,2023-07-14,Risoto de Funghi,13.0,Transferencia
+2786,2023-07-14,Gelato,6.0,Transferencia
+2787,2023-07-14,Café au lait,4.0,Tarjeta de Débito
+2788,2023-07-15,Macaron,3.5,Transferencia
+2789,2023-07-15,Panini,7.5,Transferencia
+2790,2023-07-15,Café au lait,4.0,Tarjeta de Débito
+2791,2023-07-15,Bruschetta,7.0,Transferencia
+2792,2023-07-15,Café au lait,4.0,Efectivo
+2793,2023-07-15,Pizza Margherita,12.0,Tarjeta de Débito
+2794,2023-07-15,Café au lait,4.0,Tarjeta de Crédito
+2795,2023-07-15,Baguete,3.0,Tarjeta de Crédito
+2796,2023-07-16,Café au lait,4.0,Transferencia
+2797,2023-07-16,Café au lait,4.0,Transferencia
+2798,2023-07-16,Lasanha,11.5,Tarjeta de Crédito
+2799,2023-07-17,Prociutto,4.5,Transferencia
+2800,2023-07-17,Prociutto,4.5,Tarjeta de Débito
+2801,2023-07-17,Panini,7.5,Efectivo
+2802,2023-07-17,Baguete,3.0,Tarjeta de Débito
+2803,2023-07-17,Limoncello,9.0,Tarjeta de Débito
+2804,2023-07-17,Macaron,3.5,Tarjeta de Débito
+2805,2023-07-18,Lasanha,11.5,Tarjeta de Crédito
+2806,2023-07-18,Pizza Margherita,12.0,Efectivo
+2807,2023-07-18,Limoncello,9.0,Tarjeta de Débito
+2808,2023-07-18,Tiramisú,10.0,Efectivo
+2809,2023-07-18,Quiche Lorraine,8.0,Tarjeta de Débito
+2810,2023-07-19,Limoncello,9.0,Tarjeta de Crédito
+2811,2023-07-19,Limoncello,9.0,Transferencia
+2812,2023-07-20,Tiramisú,10.0,Tarjeta de Crédito
+2813,2023-07-20,Risoto de Funghi,13.0,Efectivo
+2814,2023-07-21,Panini,7.5,Efectivo
+2815,2023-07-21,Gnocchi,10.5,Tarjeta de Débito
+2816,2023-07-22,Prociutto,4.5,Tarjeta de Débito
+2817,2023-07-22,Espresso,2.5,Tarjeta de Débito
+2818,2023-07-22,Croissant,5.0,Transferencia
+2819,2023-07-22,Gnocchi,10.5,Tarjeta de Crédito
